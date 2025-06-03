@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="Optimizations">
+    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлено: вывод времени в консоль">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/queue_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/queue_service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/queue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748855289454</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="добавлено: вывод времени в консоль">
+      <option name="closed" value="true" />
+      <created>1748860464112</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748860464112</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +175,7 @@
     <MESSAGE value="бот для управления очередью в группе" />
     <MESSAGE value="Requirements.txt" />
     <MESSAGE value="Optimizations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Optimizations" />
+    <MESSAGE value="добавлено: вывод времени в консоль" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлено: вывод времени в консоль" />
   </component>
 </project>
