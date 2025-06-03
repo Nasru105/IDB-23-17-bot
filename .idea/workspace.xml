@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлено: вывод времени в консоль">
+    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="Оптимизация">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/queue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/queue_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/queue_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748860464112</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Оптимизация">
+      <option name="closed" value="true" />
+      <created>1748927601981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748927601981</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -176,6 +186,7 @@
     <MESSAGE value="Requirements.txt" />
     <MESSAGE value="Optimizations" />
     <MESSAGE value="добавлено: вывод времени в консоль" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлено: вывод времени в консоль" />
+    <MESSAGE value="Оптимизация" />
+    <option name="LAST_COMMIT_MESSAGE" value="Оптимизация" />
   </component>
 </project>
