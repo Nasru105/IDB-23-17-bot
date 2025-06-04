@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлен вывод названия группы в логах">
+    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="оптимизация">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/queue_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/queue_data.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,16 +44,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.bot.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Nasru/PycharmProjects/IDB-23-17",
-    "settings.editor.selected.configurable": "preferences.pathVariables"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.bot.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nasru/PycharmProjects/IDB-23-17&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pathVariables&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nasru\PycharmProjects\IDB-23-17" />
@@ -69,6 +70,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="TOKEN" value="$TOKEN$" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -186,7 +188,55 @@
       <option name="project" value="LOCAL" />
       <updated>1749026913807</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add config.py">
+      <option name="closed" value="true" />
+      <created>1749048665592</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1749048665592</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ускорение вывода логов">
+      <option name="closed" value="true" />
+      <created>1749049603148</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1749049603148</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add queue_data.json">
+      <option name="closed" value="true" />
+      <created>1749049742740</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1749049742740</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Теперь файл сохраняется в постоянное хранилище">
+      <option name="closed" value="true" />
+      <created>1749051302357</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1749051302357</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Теперь файл сохраняется в постоянное хранилище">
+      <option name="closed" value="true" />
+      <created>1749051998136</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1749051998136</updated>
+    </task>
+    <task id="LOCAL-00016" summary="оптимизация">
+      <option name="closed" value="true" />
+      <created>1749052239465</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1749052239465</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +260,11 @@
     <MESSAGE value="словарь STUDENTS_USERNAMES для преоброзования в ФИО" />
     <MESSAGE value="оптимизировано генерация случайной очереди" />
     <MESSAGE value="добавлен вывод названия группы в логах" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлен вывод названия группы в логах" />
+    <MESSAGE value="add config.py" />
+    <MESSAGE value="ускорение вывода логов" />
+    <MESSAGE value="add queue_data.json" />
+    <MESSAGE value="Теперь файл сохраняется в постоянное хранилище" />
+    <MESSAGE value="оптимизация" />
+    <option name="LAST_COMMIT_MESSAGE" value="оптимизация" />
   </component>
 </project>
