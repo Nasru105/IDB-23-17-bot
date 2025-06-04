@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="оптимизация" />
+    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="Вывод названия группы в логах для команд insert, remove">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/queue.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749053803173</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Вывод названия группы в логах для команд insert, remove">
+      <option name="closed" value="true" />
+      <created>1749057898983</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1749057898983</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +283,7 @@
     <MESSAGE value="add queue_data.json" />
     <MESSAGE value="Теперь файл сохраняется в постоянное хранилище" />
     <MESSAGE value="оптимизация" />
-    <option name="LAST_COMMIT_MESSAGE" value="оптимизация" />
+    <MESSAGE value="Вывод названия группы в логах для команд insert, remove" />
+    <option name="LAST_COMMIT_MESSAGE" value="Вывод названия группы в логах для команд insert, remove" />
   </component>
 </project>
