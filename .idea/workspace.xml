@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлены команды start, help&#10;оптимизирован вывод логов">
+    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлена команда replace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -270,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749376538555</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="добавлена команда replace">
+      <option name="closed" value="true" />
+      <created>1749889263365</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1749889263365</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -303,6 +309,7 @@
     <MESSAGE value="добавлено getlist" />
     <MESSAGE value="добавлены команды start, help&#10;оптимизирован вывод логов" />
     <MESSAGE value="добавлены команды start, help&#10;оптимизирован вывод логов" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлены команды start, help&#10;оптимизирован вывод логов" />
+    <MESSAGE value="добавлена команда replace" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлена команда replace" />
   </component>
 </project>
