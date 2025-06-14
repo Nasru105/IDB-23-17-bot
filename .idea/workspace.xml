@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлено getlist">
+    <list default="true" id="f9f3843b-1699-4e84-b25f-0c5717cf2564" name="Changes" comment="добавлены команды start, help&#10;оптимизирован вывод логов">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/commands/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commands/queue.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/queue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/handlers/handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/handlers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/services/queue_service.py" beforeDir="false" afterPath="$PROJECT_DIR$/services/queue_service.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/utils.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -265,7 +262,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749058848742</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="добавлены команды start, help">
+      <option name="closed" value="true" />
+      <created>1749376538555</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1749376538555</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -296,6 +301,8 @@
     <MESSAGE value="оптимизация" />
     <MESSAGE value="Вывод названия группы в логах для команд insert, remove" />
     <MESSAGE value="добавлено getlist" />
-    <option name="LAST_COMMIT_MESSAGE" value="добавлено getlist" />
+    <MESSAGE value="добавлены команды start, help&#10;оптимизирован вывод логов" />
+    <MESSAGE value="добавлены команды start, help&#10;оптимизирован вывод логов" />
+    <option name="LAST_COMMIT_MESSAGE" value="добавлены команды start, help&#10;оптимизирован вывод логов" />
   </component>
 </project>
